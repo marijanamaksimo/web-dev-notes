@@ -1,8 +1,8 @@
 * {}            /* univerzalni */
-h1 {}           /* tag */
-#id {}          /* ID */
-.class {}       /* klasa */
-div p {}        /* potomci */
+* h1 {}           /* tag */
+* #id {}          /* ID */
+* .class {}       /* klasa */
+* div p {}        /* potomci */
 
 ## Box Model
 content → padding → border → margin
