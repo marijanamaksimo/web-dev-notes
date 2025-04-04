@@ -4,17 +4,17 @@ h1 {}           /* tag */
 .class {}       /* klasa */
 div p {}        /* potomci */
 
-##Box Model
+## Box Model
 content → padding → border → margin
 
-##Layout
+## Layout
 display: flex;
 
 display: grid;
 
 position: static | relative | absolute | fixed | sticky
 
-##Stilovi
+## Stilovi
 Boje: color, background-color
 
 Fontovi: font-family, font-size, line-height
