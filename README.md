@@ -42,6 +42,6 @@ This repo reflects my focused learning journey – one day at a time. 🎯
 - Node.js & npm
 
 ---
-[frontend.pdf](https://github.com/user-attachments/files/19624099/frontend.pdf)
+![frontend](https://github.com/user-attachments/assets/dba47cf1-4fef-41b4-96f0-402860176765)
 
 
