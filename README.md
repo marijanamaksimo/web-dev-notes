@@ -40,3 +40,8 @@ This repo reflects my focused learning journey – one day at a time. 🎯
 - Chrome DevTools
 - Figma (for design work)
 - Node.js & npm
+
+---
+[frontend.pdf](https://github.com/user-attachments/files/19624099/frontend.pdf)
+
+
