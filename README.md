@@ -42,6 +42,7 @@ This repo reflects my focused learning journey – one day at a time. 🎯
 - Node.js & npm
 
 ---
+![frontend roadmap](./assets/ime-slike.png)
 ![frontend](https://github.com/user-attachments/assets/dba47cf1-4fef-41b4-96f0-402860176765)
 
 
