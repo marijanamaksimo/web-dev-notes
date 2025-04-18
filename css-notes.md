@@ -72,7 +72,14 @@ display: grid;
 
 ---
 
-position: static | relative | absolute | fixed | sticky
+Pozicioniranje (position)
+
+Vrednost	Opis
+static	Podrazumevana vrednost. Elementi su u toku dokumenta, bez pomeranja.
+relative	Pozicioniran u odnosu na svoj početni položaj. Možeš koristiti top, left, right, bottom.
+absolute	Pozicioniran u odnosu na najbližeg pozicioniranog roditelja (relative, absolute, fixed, sticky), ili prema body ako takvog nema. Ispada iz toka dokumenta.
+fixed	Pozicioniran u odnosu na ekran. Ostaje na mestu pri skrolovanju.
+sticky	Hibrid relative i fixed. "Zalepi se" kada dođe do određene pozicije pri skrolovanju. Radi samo uz top, left, right, bottom.
 
 ## Stilovi
 Boje: color, background-color
