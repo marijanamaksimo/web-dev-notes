@@ -7,14 +7,6 @@ The goal: **master front-end development**, and build a solid technical foundati
 
 ---
 
-## 📚 Topics Covered
-
----
-
-## 🚀 Projects (coming soon)
-
----
-
 ## 🧠 Why this repo?
 
 - ✅ To organize and deepen my understanding
@@ -30,19 +22,3 @@ After 3 years of experience in marketing and design, I’m transitioning into fr
 
 Currently also exploring **project management** and **freelance design** as complementary skills.  
 This repo reflects my focused learning journey – one day at a time. 🎯
-
----
-
-## 🛠 Tools
-
-- Visual Studio Code
-- Git & GitHub
-- Chrome DevTools
-- Figma (for design work)
-- Node.js & npm
-
----
-![frontend roadmap](./assets/ime-slike.png)
-![frontend](https://github.com/user-attachments/assets/dba47cf1-4fef-41b4-96f0-402860176765)
-
-
